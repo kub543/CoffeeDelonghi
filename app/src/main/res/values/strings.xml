@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Coffeina Delonghi</string>
+    <string name="starbuzz_logo">Logo kafeterii CoffinaDelonghi</string>
+    <string name="List">Lista zamówień</string>
+    <string name="Description">Nazwa espresso doskonale odzwierciedla sposób przygotowania tej kawy,
+        błyskawiczny, ekspresowy przepływ wody przez zmielone ziarna. Jednak nazwa espresso nie do
+        końca pochodzi właśnie stąd - prawdopodobnie wzięła się od włoskiego przymiotnika espressivo
+        co oznacza wyrazisty. </string>
+    <string name="DoubleEspresso">podwójne</string>
+    <string name="Name">Podaj imię</string>
+    <string name="Todo">TODO</string>
+    <string name="Click">Click</string>
+
+    <string name="instruction_title">
+        <b>How to play:</b>
+    </string>
+
+    <string name="introduction">
+       \t \u2022 Find the Android hidden behind the dark surface. \n
+       \t \u2022 Touch and hold the screen for the spotlight. \n
+       \t \u2022 Once you find the Android, lift your finger to end the game. \n \n
+       \t \u2022 To restart the game touch the screen again.
+    </string>
+    <string name="play">Zagraj</string>
+    <string name="choice">WYBIERZ</string>
+    <string name="put_name">Dla kogo przygotowac?</string>
+</resources>
